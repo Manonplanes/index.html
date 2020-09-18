@@ -1,0 +1,85 @@
+ #image
+    {
+        width:600px;
+        margin:auto;
+        text-align: justify;
+    }
+
+.nav
+{
+	display: flex;
+	height: 60px;
+	align-items: center;
+	width: 100%;
+	font-family: arial;
+	color: grey;
+
+}
+
+#conteneur
+{
+	display:flex;
+	justify-content: flex-end;
+}
+
+#conteneur div
+{
+	margin: 0 20px;
+}
+
+#cse-search-box
+{
+	text-align: center;
+}
+
+#boutons
+{
+	text-align:center; 
+	margin-bottom: 150px;
+}
+
+.bouton
+{
+	background-color: #F1F2F2;
+}
+
+#France
+{
+	margin-bottom: 20px;
+}
+
+#bas
+{
+	display: flex;
+	justify-content: space-between;
+}
+
+#gauche
+{
+	display: flex;
+	justify-content: flex-start;
+}
+
+#droite
+{
+	display: flex;
+	justify-content: flex-end;
+}
+
+#gauche p
+{
+	margin-right: 20px;
+}
+
+#droite p
+{
+	margin-left: 20px;
+}
+
+footer
+{
+	background-color: #F1F2F2;
+	width: 100%;
+	font-family: arial;
+	color: grey;
+}
